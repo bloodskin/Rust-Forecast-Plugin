@@ -1,2 +1,2 @@
 # Rust-Forecast-Plugin
-An Oxide plugin to give an in game forecast.
+An Oxide plugin to give in game weather.
