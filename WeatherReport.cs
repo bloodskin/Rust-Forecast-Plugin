@@ -4,7 +4,8 @@ using System.Linq;
 
 namespace Oxide.Plugins
 {
-    [Info("Weather Report", "BloodSkin", "1.0.4")]
+    [Info("WeatherReport", "BloodSkin", "1.0.4")]
+    [Description("Plugin to show weather in game as well as the forecast")]
     class WeatherReport : CovalencePlugin
     {
         [Command("weather")]
